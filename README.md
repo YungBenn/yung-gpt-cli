@@ -8,13 +8,13 @@ Chat with GPT in your beloved terminal
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/YungBenn/yung-gpt-cli.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd yung-gpt-cli
 ```
 
 Install dependencies
